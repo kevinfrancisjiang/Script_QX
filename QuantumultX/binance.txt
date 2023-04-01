@@ -1,0 +1,6 @@
+payload:
+  - '+.bnbstatic.com'
+  - '+.bntrace.com'
+  - '+.saasexch.com'
+  - '+.binance.com'
+  - '+.binance.me'  
